@@ -3,6 +3,6 @@ This repository contains the code and final report submitted for an assignment i
 The assignment asked us to perform a comparative analysis of Machine Learning vs Deep Learning Models, along with sensitivity analysis of hyperparameters for the deep learning models, creating a minimum of 12 Deep Learning models.
 
 Authors:
-Prajjwal Vijaywargiya
-Siddhi Mahesh Burse
+Prajjwal Vijaywargiya  
+Siddhi Mahesh Burse  
 Parth Krishna Sharma
